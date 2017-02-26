@@ -1,4 +1,4 @@
-{-# LANGUAGE DoRec #-}
+{-# LANGUAGE RecursiveDo #-}
 
 -- |The title of this module is pretty self explanatory.
 -- Uses the GHC API to get GHC Core syntax and parses this into 'Expr's and 'DataTypes'
